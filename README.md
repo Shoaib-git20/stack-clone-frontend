@@ -1,7 +1,8 @@
-#'npm i"
+# npm i
 to build 
 
-# 'npm start'
+# npm start
 to start server
 
-Website link is "https://shoaib-stack-clone-server.onrender.com"
+# website link
+"https://shoaib-stack-clone-server.onrender.com"
